@@ -8,4 +8,3 @@
 No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
-https://raw.githubusercontent.com/KannaDev/KannaDev/main/intro.gif
