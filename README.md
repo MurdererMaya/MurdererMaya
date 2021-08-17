@@ -1,8 +1,5 @@
 [<img src="https://raw.githubusercontent.com/KannaDev/KannaDev/main/intro.gif" alt="👋 Hi there! I'm Kanna." title="👋 Hi there! I'm Kanna"/>](https://github.com/KannaDev/)
 
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kannadev)](https://github.com/anuraghazra/github-readme-stats)
-
 <!--START_SECTION:waka-->
 ```text
 No Activity tracked this Week
