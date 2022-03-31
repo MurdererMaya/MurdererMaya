@@ -4,4 +4,4 @@ Find me on [Keybase](https://keybase.io/hazeldev)!
 
 [<img src="https://raw.githubusercontent.com/KannaDev/KannaDev/main/intro.gif" alt="👋 Hi there! I'm Kanna." title="👋 Hi there! I'm Kanna"/>](https://github.com/KannaDev/)
 
-![Discord Banner](https://discord.c99.nl/widget/theme-4/317728561106518019.png)
+[![Discord Presence](https://lanyard.cnrad.dev/api/317728561106518019)](https://discord.com/users/317728561106518019)
