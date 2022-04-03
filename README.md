@@ -7,4 +7,10 @@ Find me on [Keybase](https://keybase.io/hazeldev)!
 [![Discord Presence](https://lanyard.cnrad.dev/api/317728561106518019)](https://discord.com/users/317728561106518019)
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   0 secs          ██████████████████████▒░░   88.86 %
+Bash         0 secs          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+```
+
 <!--END_SECTION:waka-->
