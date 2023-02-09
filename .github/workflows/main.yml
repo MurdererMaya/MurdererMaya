@@ -1,26 +1,53 @@
-name: WakaTime status update
-
+# Visit https://github.com/lowlighter/metrics/blob/master/action.yml for full reference
+name: Metrics
 on:
-  push:
-    branches: [main]
-  schedule:
-    - cron: "1 0 * * *"
-
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 12 * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
 jobs:
-  update-readme:
-    name: Update the WakaTime Stat
+  github-metrics:
     runs-on: ubuntu-latest
     steps:
-      # Use avinal/Profile-Readme-WakaTime@<latest-release-tag> for latest stable release
-      # Do not change the line below until you have forked this repository
-      # If you have forked this project you can use <username>/Profile-Readme-WakaTime@master instead
-      - uses: avinal/Profile-Readme-WakaTime@master
+      - uses: lowlighter/metrics@latest
         with:
-          # WakaTime API key stored in secrets, do not directly paste it here
-          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          # Automatic github token
-          GITHUB_TOKEN: ${{ github.token }}
-          # Branch - newer GitHub repositories have "main" as default branch, change to main in that case, default is master
-          BRANCH: "main"
-          # Manual Commit messages - write your own messages here
-          COMMIT_MSG: "Automated Coding Activity Update :alien:"
+          # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Options
+          user: KannaDev
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/London
+          plugin_activity: yes
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          plugin_activity_limit: 5
+          plugin_activity_load: 300
+          plugin_activity_visibility: all
+          plugin_habits: yes
+          plugin_habits_days: 14
+          plugin_habits_facts: yes
+          plugin_habits_from: 200
+          plugin_introduction: yes
+          plugin_languages: yes
+          plugin_languages_colors: github
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_recent.days: 14
+          plugin_languages_recent.load: 300
+          plugin_languages_sections: most-used
+          plugin_languages_threshold: 0%
+          plugin_people: yes
+          plugin_people_limit: 24
+          plugin_people_size: 28
+          plugin_people_types: followers, following
+          plugin_stargazers: yes
+          plugin_wakatime: yes
+          plugin_wakatime_days: 7
+          plugin_wakatime_limit: 5
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakapi.dev/api
+          plugin_wakatime_user: Hazel
+          repositories_forks: yes
