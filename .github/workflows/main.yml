@@ -22,7 +22,7 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.WAKAAPI }}
 
           # Options
           user: KannaDev
@@ -62,7 +62,7 @@ jobs:
           plugin_wakatime_days: 7
           plugin_wakatime_limit: 5
           plugin_wakatime_repositories_visibility: all
-          plugin_wakatime_token: ${{ secrets.WAKAAPI}} 
-          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os              
-          plugin_wakatime_user: .user.login    
+          plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+          plugin_wakatime_url: https://wakatime.com
+          plugin_wakatime_user: KannaDev
           repositories_forks: yes
