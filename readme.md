@@ -36,6 +36,6 @@
   <img width="100px" src="https://komarev.com/ghpvc/?username=kannadev&style=flat-square&color=ff69b4"/>
   <br>
   <br>
-    <img src="https://lanyard-profile-readme.vercel.app/api/317728561106518019?hideDiscrim=false" alt="Discord Presence" align="center" width="350">
+    <img src="https://lanyard-profile-readme.vercel.app/api/317728561106518019?hideDiscrim=false" alt="Discord Presence" align="center" width="300">
   <br>
 </div>
