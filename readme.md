@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="/images/desktop-wallpaper-aesthetic-pink-flowers-largest-portal-cute-aesthetic-flower.jpg" width="253" align="left">
-    <img src="/images/lomufi0pup4zlylx.jpg" width="253" align="right">
+    <img src="/images/desktop-wallpaper-aesthetic-pink-flowers-largest-portal-cute-aesthetic-flower.jpg" width="220" align="left">
+    <img src="/images/lomufi0pup4zlylx.jpg" width="220" align="right">
   </p>
   <div align="center">
     <samp>
