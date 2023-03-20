@@ -36,6 +36,6 @@
   <img width="100px" src="https://komarev.com/ghpvc/?username=kannadev&style=flat-square&color=ff69b4"/>
   <br>
   <br>
-      <img witdh="200" src="https://lanyard-profile-readme.vercel.app/api/317728561106518019" />
+      <img witdh="100px" src="https://lanyard-profile-readme.vercel.app/api/317728561106518019" />
   <br>
 </div>
