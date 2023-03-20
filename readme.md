@@ -1,7 +1,7 @@
 <div align="center">
   <p float="left">
-    <img src="/images/desktop-wallpaper-aesthetic-pink-flowers-largest-portal-cute-aesthetic-flower.jpg" width="220" align="left">
-    <img src="/images/lomufi0pup4zlylx.jpg" width="220" align="right">
+    <img src="/images/desktop-wallpaper-aesthetic-pink-flowers-largest-portal-cute-aesthetic-flower.jpg" width="200" align="left">
+    <img src="/images/lomufi0pup4zlylx.jpg" width="200" align="right">
   </p>
   <div align="center">
     <samp>
@@ -36,6 +36,6 @@
   <img width="100px" src="https://komarev.com/ghpvc/?username=kannadev&style=flat-square&color=ff69b4"/>
   <br>
   <br>
-      <img witdh="100px" src="https://lanyard-profile-readme.vercel.app/api/317728561106518019" />
+      <img witdh="100px" src="https://lanyard-profile-readme.vercel.app/api/317728561106518019"/>
   <br>
 </div>
