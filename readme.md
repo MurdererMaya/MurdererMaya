@@ -29,7 +29,7 @@
       <br>
       <br>
       discord: 
-      <a href="https://discord.com/users/317728561106518019">@Kanna#0001</a><br>
+      <a href="https://discord.com/users/317728561106518019">@friendships</a><br>
       inspired by <a href="https://github.com/jckli">/jckli</a> & <a href="https://github.com/kttykat">/kttykat</a>   
     </samp>
   </div>
