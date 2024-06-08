@@ -1,13 +1,10 @@
 ```math 
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; background-position: center; background-image: url('https://github.com/KannaDev/KannaDev/blob/main/images/GPcJoCmakAAcWUe.jpg?raw=true'); border-radius: 0% !important; opacity: 0.3;"]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; border-radius: 0% !important; border-top-left-radius: 0%; border-top-right-radius: 0%; border-bottom-right-radius: 0%; border-bottom-left-radius: 0%; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; background-position: center; background-image: url('https://github.com/KannaDev/KannaDev/blob/main/images/GPcJoCmakAAcWUe.jpg?raw=true'); border-radius: 0% !important; opacity: 0.3;"]{}
 
 \mmlToken{ms}[fontfamily="
 font-family: goombafont;
 position: fixed;
 inset: 0;
-.avatar-user {
-  border-radius: 0%;
-}
 z-index: 100;
 font-size: 0.420rem;
 --trans: #b0e0e6 1em, #ffc0cb 1em 2em, #fff 2em 3em, #ffc0cb 3em 4em, #b0e0e6 4em 5em, transparent 5em;
