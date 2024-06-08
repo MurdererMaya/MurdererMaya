@@ -5,7 +5,7 @@
 font-family: goombafont;
 position: fixed;
 inset: 0;
---avatar-user: border-radius: 0% !important;
+border-radius: 0% !important;
 z-index: 100;
 font-size: 0.420rem;
 --trans: #b0e0e6 1em, #ffc0cb 1em 2em, #fff 2em 3em, #ffc0cb 3em 4em, #b0e0e6 4em 5em, transparent 5em;
