@@ -11,7 +11,7 @@ font-size: 0.420rem;
 background-image: linear-gradient(calc(0.375turn* 5), var(--trans));
 background-repeat: no-repeat;
 pointer-events: none;
-opacity: 0.5;
+opacity: 1;
 "]{}
 
 \mmlToken{ms}[fontfamily="
