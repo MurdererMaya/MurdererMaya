@@ -1,5 +1,5 @@
 ```math 
-\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; border-radius: 0% !important; border-top-left-radius: 0%; border-top-right-radius: 0%; border-bottom-right-radius: 0%; border-bottom-left-radius: 0%; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; background-position: center; background-image: url('https://github.com/KannaDev/KannaDev/blob/main/images/GPcJoCmakAAcWUe.jpg?raw=true'); border-radius: 0% !important; opacity: 0.3;"]{}
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; background-position: center; background-image: url('https://github.com/KannaDev/KannaDev/blob/main/images/GPcJoCmakAAcWUe.jpg?raw=true'); border-radius: 0% !important; opacity: 0.3;"]{}
 
 \mmlToken{ms}[fontfamily="
 font-family: goombafont;
