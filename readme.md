@@ -1,41 +1,24 @@
-<div align="center">
-  <p float="left">
-    <img src="/images/desktop-wallpaper-aesthetic-pink-flowers-largest-portal-cute-aesthetic-flower.jpg" width="220" align="left">
-    <img src="/images/lomufi0pup4zlylx.jpg" width="220" align="right">
-  </p>
-  <div align="center">
-    <samp>
-      my stack:
-      <br>
-      languages: 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">js</a>, 
-      <a href="https://www.typescriptlang.org/">ts</a>, 
-      <a href="https://www.python.org/">python</a>, 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">html</a>, 
-      <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">css</a>, 
-      <a href="https://www.w3schools.com/sql/">sql</a>
-      <br>
-      systems: 
-      <a href="https://www.microsoft.com/en-us/windows/">windows</a>, 
-      <a href="https://www.linux.org/">linux</a>, 
-      <a href="https://www.unix.com/">unix</a>
-      <br>
-      databases: 
-      <a href="https://www.mongodb.com/">mongodb</a>, 
-      <a href="https://www.npmjs.com/package/quick.db">quick.db</a>, 
-      <a href="https://www.microsoft.com/en-us/microsoft-365/access">microsoft access</a>
-      <br>
-      study: IT at <a href="https://ccn.ac.uk">city college norwich</a>    
-      <br>
-      <br>
-      discord: 
-      <a href="https://discord.com/users/317728561106518019">@friendships</a><br>
-      inspired by <a href="https://github.com/jckli">/jckli</a> & <a href="https://github.com/kttykat">/kttykat</a>   
-    </samp>
-  </div>
-  <img width="100px" src="https://komarev.com/ghpvc/?username=kannadev&style=flat-square&color=ff69b4"/>
-  <br>
-  <br>
-    <img src="https://lanyard-profile-readme.vercel.app/api/317728561106518019?hideDiscrim=true" alt="Discord Presence" align="center" width="340">
-  <br>
-</div>
+```math 
+\mmlToken{ms}[fontfamily="goombafont; color:red; pointer-events: none; z-index: -11; position: fixed; top: 0; left: 0; height: 100vh; width: 100vw; background-size: cover; background-position: center; background-image: url('https://github.com/KannaDev/KannaDev/blob/main/images/GPcJoCmakAAcWUe.jpg?raw=true'); opacity: 0.3;"]{}
+
+\mmlToken{ms}[fontfamily="
+font-family: goombafont;
+position: fixed;
+inset: 0;
+z-index: 100;
+font-size: 0.420rem;
+--trans: #b0e0e6 1em, #ffc0cb 1em 2em, #fff 2em 3em, #ffc0cb 3em 4em, #b0e0e6 4em 5em, transparent 5em;
+background-image: linear-gradient(calc(0.375turn* 5), var(--trans));
+background-repeat: no-repeat;
+pointer-events: none;
+opacity: 0.5;
+"]{}
+
+\mmlToken{ms}[fontfamily="
+font-family: goombafont;
+color:red;
+pointer-events: none;
+position: fixed;
+inset: 0;
+backdrop-filter: saturate(2) blur(15px) brightness(3.7) opacity: 0.2;
+"]{}
