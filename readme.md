@@ -25,8 +25,6 @@
       <a href="https://www.npmjs.com/package/quick.db">quick.db</a>, 
       <a href="https://www.microsoft.com/en-us/microsoft-365/access">microsoft access</a>
       <br>
-      study: IT at <a href="https://ccn.ac.uk">city college norwich</a>    
-      <br>
       <br>
       discord: 
       <a href="https://discord.com/users/317728561106518019">@friendships</a><br>
